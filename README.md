@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+I'm Joshua Skootsky.
+
+<pre> The pre tag is great for writing code in markdown
+</pre>
+
+## Using different numbers
+# of # (octothrope) signs
+### Makes different phasis in Markdown
+
+Markdown
+* is
+* also
+* great
+  * for
+  * nested
+  * lists
+    * quick tree structure!
+
 <!--
 **JoshuaSkootsky/JoshuaSkootsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
