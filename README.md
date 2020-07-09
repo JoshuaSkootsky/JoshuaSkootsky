@@ -7,7 +7,7 @@ I'm Joshua Skootsky.
 
 ## Using different numbers
 # of # (octothrope) signs
-### Makes different phasis in Markdown
+### Makes different levels of  emphasis in Markdown
 
 Markdown
 * is
