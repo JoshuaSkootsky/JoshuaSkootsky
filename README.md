@@ -34,7 +34,7 @@ From my books surcease of sorrow — sorrow for the lost Lenore —
 For the rare and radiant maiden whom the angels name Lenore—  
 Nameless here for evermore.
                   
-                  </pre>
+<pre> finis </pre>
 
 
 <!--
