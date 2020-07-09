@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joshua Skootsky.
+I'm Joshua Skootsky - currently playing around with what's possible in the GitHub README.md file
 
 <pre> The pre tag is great for writing code in markdown
 </pre>
