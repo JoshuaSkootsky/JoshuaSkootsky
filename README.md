@@ -10,6 +10,7 @@ I'm Joshua Skootsky
 - 📫 Please reach me by email
 - 😄 Pronouns: he/him
 - 💬 Ask me about: React, algorithms, history
+- A bit concerned, slightly proud, that some of my code is living in a vault in the Arctic...
 
 <!--
 - 🔭 I’m currently working on ...
