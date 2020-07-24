@@ -25,3 +25,4 @@ I'm Joshua Skootsky
 Check out these links on GitHub readmes:
 
 [Monica's Dev Blog post about GitHub READMEs](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
+[GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats)
