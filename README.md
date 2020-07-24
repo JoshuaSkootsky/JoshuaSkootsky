@@ -2,13 +2,12 @@
 
 I'm Joshua Skootsky
 
-- ⚡ I have a degree in Math from Yeshiva University, (YU)
-- ⚡ I did the Fullstack Academy (FSA) software engineering intensive
-- ⚡ I've done research in computational chemistry and biophysics, including a magical summer at the University of Michigan
-- ⚡ Been doing full stack web development with JavaScript and React
+* I have a degree in Math from Yeshiva University, (YU)
+* I did the Fullstack Academy (FSA) software engineering intensive
+* I've done research in computational chemistry and biophysics, including a magical summer at the University of Michigan
+* Been doing full stack web development with JavaScript and React
 - ⚡ Passionate about CI/CD and the DevOps philosophy
 - 📫 Please reach me by email
-- 😄 Pronouns: he/him
 - 💬 Ask me about: React, algorithms, history
 - A bit concerned, slightly proud, that some of my code is living in a vault in the Arctic...
 
