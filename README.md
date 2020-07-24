@@ -18,6 +18,8 @@ I'm Joshua Skootsky
 + I've done research in computational chemistry and biophysics
 + Been doing full stack web development with JavaScript and React
 + I have a special love of typed and functional languages, so really excited about TypeScript
+- the bad
++ the good
 ```
 
 <!--
