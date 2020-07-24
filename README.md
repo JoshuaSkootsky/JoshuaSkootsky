@@ -6,6 +6,9 @@ I'm Joshua Skootsky
 * I did the Fullstack Academy (FSA) software engineering intensive
 * I've done research in computational chemistry and biophysics, including a magical summer at the University of Michigan
 * Been doing full stack web development with JavaScript and React
+
+## A bit more info: 
+- Find me on <a href="https://www.linkedin.com/in/joshua-skootsky/">LinkedIn</a> 💼
 - ⚡ Passionate about CI/CD and the DevOps philosophy
 - 📫 Please reach me by email
 - 💬 Ask me about: React, algorithms, history
