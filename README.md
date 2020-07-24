@@ -8,7 +8,7 @@ I'm Joshua Skootsky
 - 📫 Please reach me by email
 - 💬 Ask me about: React, algorithms, history
 - ❄️ A bit concerned, slightly proud, that some of my code is living in a vault in the Arctic...
-- 🖋️ I love markdown.md!
+- 🖋️ I love Markdown.md!
 
 
 ## A bit more info: 
