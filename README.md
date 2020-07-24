@@ -25,9 +25,12 @@ I'm Joshua Skootsky
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Stats!
+[![joshuaSkootsky github stats](https://github-readme-stats.vercel.app/api?username=JoshuaSkootsky)](https://github.com/anuraghazra/github-readme-stats)
 
-Check out these links on GitHub readmes:
+
+### Check out these links on GitHub readmes:
 
 [Monica's Dev Blog post about GitHub READMEs](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme 'Monica\'s Dev Blog Post on READMEs')
 
-[GitHub ReadMe Stats](https://github.com/anuraghazra/github-readme-stats 'GitHub ReadMe Stats')
+[GitHub ReadMe Stats by Anurag Hazra](https://github.com/anuraghazra/github-readme-stats 'GitHub ReadMe Stats')
