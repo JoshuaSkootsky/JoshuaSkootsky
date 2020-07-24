@@ -11,10 +11,6 @@ I'm Joshua Skootsky
 
 
 ## A bit more info: 
-*  I have a 4-year BA degree in Math from Yeshiva University, (YU)
-* 
-* 
-* 
 
 ```diff
 @@ I have a 4-year BA degree in Math from Yeshiva University, (YU) @@
