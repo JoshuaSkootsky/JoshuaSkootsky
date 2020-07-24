@@ -3,8 +3,8 @@
 
 I'm Joshua Skootsky
 
-* I have a degree in Math from Yeshiva University, (YU)
-* I did the Fullstack Academy (FSA) software engineering intensive
+* I have a 4-year BA degree in Math from Yeshiva University, (YU)
+* I did the Fullstack Academy (FSA) software engineering intensive, 4 months
 * I've done research in computational chemistry and biophysics, including a magical summer at the University of Michigan
 * Been doing full stack web development with JavaScript and React
 
