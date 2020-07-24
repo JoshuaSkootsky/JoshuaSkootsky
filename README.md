@@ -9,7 +9,7 @@ I'm Joshua Skootsky
 * Been doing full stack web development with JavaScript and React
 
 ## A bit more info: 
-- Find me on <a href="https://www.linkedin.com/in/joshua-skootsky/">LinkedIn</a> 💼
+- 💼 Find me on <a href="https://www.linkedin.com/in/joshua-skootsky/">LinkedIn</a> 
 - ⚡ Passionate about CI/CD and the DevOps philosophy
 - 📫 Please reach me by email
 - 💬 Ask me about: React, algorithms, history
