@@ -2,14 +2,6 @@
 ### Hi there 
 
 I'm Joshua Skootsky
-
-* I have a 4-year BA degree in Math from Yeshiva University, (YU)
-* I did the Fullstack Academy (FSA) software engineering intensive, 4 months
-* I've done research in computational chemistry and biophysics, including a magical summer at the University of Michigan
-* Been doing full stack web development with JavaScript and React
-
-## A bit more info: 
-
 <!-- - 💼 Find me on <a href="https://www.linkedin.com/in/joshua-skootsky/">LinkedIn</a> -->
 -  💼 Find me on [LinkedIn](https://www.linkedin.com/in/joshua-skootsky/ 'LinkedIn')
 - ⚡ Passionate about CI/CD and the DevOps philosophy
@@ -17,6 +9,13 @@ I'm Joshua Skootsky
 - 💬 Ask me about: React, algorithms, history
 - ❄️ A bit concerned, slightly proud, that some of my code is living in a vault in the Arctic...
 - 🖋️ I love markdown.md!
+
+
+## A bit more info: 
+* I have a 4-year BA degree in Math from Yeshiva University, (YU)
+* I did the Fullstack Academy (FSA) software engineering intensive, 4 months
+* I've done research in computational chemistry and biophysics, including a magical summer at the University of Michigan
+* Been doing full stack web development with JavaScript and React
 
 <!--
 - 🔭 I’m currently working on ...
