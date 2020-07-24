@@ -13,8 +13,8 @@ I'm Joshua Skootsky
 ## A bit more info: 
 
 ```diff
-+ I have a 4-year BA degree in Math from Yeshiva University, (YU) @@
-+ I did the Fullstack Academy (FSA) software engineering intensive, 4 months
+@@ I have a 4-year BA degree in Math from Yeshiva University, (YU)             @@
+@@ I did the Fullstack Academy (FSA) software engineering intensive, 4 months  @@
 + I've done research in computational chemistry and biophysics
 + Been doing full stack web development with JavaScript and React
 + I have a special love of typed and functional languages, so really excited about TypeScript
