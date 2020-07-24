@@ -1,5 +1,4 @@
-## 👋
-### Hi there 
+### 👋 Hi there 
 
 I'm Joshua Skootsky
 <!-- - 💼 Find me on <a href="https://www.linkedin.com/in/joshua-skootsky/">LinkedIn</a> -->
