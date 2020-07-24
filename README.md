@@ -24,4 +24,4 @@ I'm Joshua Skootsky
 
 Check out these links on GitHub readmes:
 
-[https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme](Monica's Dev Blog post about GitHub READMEs 'Monica's Dev Blog')
+[Monica's Dev Blog post about GitHub READMEs 'Monica's Dev Blog'](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme )
