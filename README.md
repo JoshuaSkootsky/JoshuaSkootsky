@@ -7,14 +7,14 @@ I'm Joshua Skootsky
 - 📫 Please reach me by email
 - 💬 Ask me about: React, algorithms, history
 - ❄️ A bit concerned, slightly proud, that some of my code is living in a vault in the Arctic...
-- 🖋️ I love Markdown.md!
+- 🖋️ I love Markdown.md, and the quirks of JavaScript
 
 
 ## A bit more info: 
 
 ```diff
-@@ I have a 4-year BA degree in Math from Yeshiva University, (YU)             @@
-@@ Graduated from the Fullstack Academy (FSA) software engineering intensive, 4 months  @@
+@@ I have a  BA in Math from Yeshiva University, (YU)             @@
+@@ Graduated from the Fullstack Academy (FSA) software engineering intensive  @@
 + I've done research in computational chemistry and biophysics
 + Been doing full stack web development with JavaScript and React
 + I have a special love of typed and functional languages, so really excited about TypeScript
