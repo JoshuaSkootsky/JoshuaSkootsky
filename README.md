@@ -2,12 +2,12 @@
 
 I'm Joshua Skootsky
 <!-- - 💼 Find me on <a href="https://www.linkedin.com/in/joshua-skootsky/">LinkedIn</a> -->
--  💼 Find me on [LinkedIn](https://www.linkedin.com/in/joshua-skootsky/ 'LinkedIn')
+-  💼  Find me on [LinkedIn](https://www.linkedin.com/in/joshua-skootsky/ 'LinkedIn')
 - ⚡ Passionate about CI/CD and the DevOps philosophy
-- 📫 Please reach me by email
-- 💬 Ask me about: React, algorithms, history
-- ❄️ A bit concerned, slightly proud, that some of my code is living in a vault in the Arctic...
-- 🖋️ I love Markdown.md, and the quirks of JavaScript
+- 📫  Please reach me by email
+- 💬  Ask me about: React, algorithms, history
+- ❄️  A bit concerned, slightly proud, that some of my code is living in a vault in the Arctic...
+- 🖋️  I love Markdown.md, and the quirks of JavaScript
 
 
 ## A bit more info: 
