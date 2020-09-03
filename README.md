@@ -12,6 +12,7 @@ I'm Joshua Skootsky
 
 ## A bit more info: 
 
+<!--
 ```diff
 @@ I have a  BA in Math from Yeshiva University, (YU)             @@
 @@ Graduated from the Fullstack Academy (FSA) software engineering intensive  @@
@@ -20,6 +21,20 @@ I'm Joshua Skootsky
 + I have a special love of typed and functional languages, so really excited about TypeScript
 - the bad
 ! the good
+```
+-->
+
+<!--
+```diff
+@@ I transform the implicit into the lucid, coherent, and clear-cut. @@
+@@ I am the bearer of bad news who will help you solve @@
+@@ the problems I bring into the light. @@
+
++ My experience from scientific programming includes running simulations and image analysis 
++ in Linux, Python, and Java. More recently I have skills and experience in full stack web 
++ development, including the React framework, with a focus on JavaScript. 
++ My peers say I'm effective in building rapport with diverse personalities,
++ and I believe this skill is essential to creating successful teamwork in the digital environment.
 ```
 
 <!--
