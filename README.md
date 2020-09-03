@@ -24,7 +24,6 @@ I'm Joshua Skootsky
 ```
 -->
 
-<!--
 ```diff
 @@ I transform the implicit into the lucid, coherent, and clear-cut. @@
 @@ I am the bearer of bad news who will help you solve @@
