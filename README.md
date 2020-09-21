@@ -26,8 +26,6 @@ I'm Joshua Skootsky
 
 ```diff
 @@ I transform the implicit into the lucid, coherent, and clear-cut. @@
-@@ I am the bearer of bad news who will help you solve               @@
-@@ the problems I bring into the light.                              @@
 
 + My experience from scientific programming includes running simulations and image analysis 
 + in Linux, Python, and Java. More recently I have skills and experience in full stack web 
