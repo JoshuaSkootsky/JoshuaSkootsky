@@ -2,6 +2,7 @@
 
 I'm Joshua Skootsky
 <!-- - 💼 Find me on <a href="https://www.linkedin.com/in/joshua-skootsky/">LinkedIn</a> -->
+- Check out [my website)[https://www.joshuaskootsky.com]!
 -  💼  Find me on [LinkedIn](https://www.linkedin.com/in/joshua-skootsky/ 'LinkedIn')
 - ⚡ Passionate about CI/CD and the DevOps philosophy
 - 📫  Please reach me by email
