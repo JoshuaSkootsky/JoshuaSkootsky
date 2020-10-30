@@ -31,20 +31,6 @@ I have been:
 - 🖋️  I love Markdown.md, and the quirks of JavaScript
 
 
-
-```
--->
-
-```diff
-@@ I transform the implicit into the lucid, coherent, and clear-cut. @@
-
-+ My experience from scientific programming includes running simulations and image analysis 
-+ in Linux, Python, and Java. More recently I have skills and experience in full stack web 
-+ development, including the React framework, with a focus on JavaScript. 
-+ My peers say I'm effective in building rapport with diverse personalities,
-+ and I believe this skill is essential to creating successful teamwork in the digital environment.
-```
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
