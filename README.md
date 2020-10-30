@@ -26,7 +26,7 @@ I have been:
 -  💼  Find me on [LinkedIn](https://www.linkedin.com/in/joshua-skootsky/ 'LinkedIn')
 - ⚡ Passionate about CI/CD and the DevOps philosophy
 - 📫  Please reach me by email
-- 💬  Ask me about: React, algorithms, history
+- 💬  Ask me about: React, algorithms, pro bono volunteer work
 - ❄️  A bit concerned, slightly proud, that some of my code is living in a vault in the Arctic...
 - 🖋️  I love Markdown.md, and the quirks of JavaScript
 
