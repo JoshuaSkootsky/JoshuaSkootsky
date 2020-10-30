@@ -1,6 +1,26 @@
 ### 👋 Hi there 
 
 I'm Joshua Skootsky
+
+I build websites and web apps. I also set up automated pipelines for testing and delivery. Together, these skillsets allow me to write software that correctly fulfills requirements on time.
+
+My peers say I'm effective in building rapport with diverse personalities, and I believe this skill is essential to creating successful teamwork in the digital environment.
+
+I have been:
+
+* a Python dev
+* a Java dev
+* a database schema designer
+* full stack software engineer
+* Front end HTML/CSS fixer
+* Software Engineer
+* Typescript lover
+* React reactor
+* Vue viewer
+* Meteor metoer'er (RIP Meteor.js?)
+* "the DevOps guy"
+* "the tests guy"
+
 <!-- - 💼 Find me on <a href="https://www.linkedin.com/in/joshua-skootsky/">LinkedIn</a> -->
 - Check out [my website, joshuaskootsky.com](https://www.joshuaskootsky.com)!
 -  💼  Find me on [LinkedIn](https://www.linkedin.com/in/joshua-skootsky/ 'LinkedIn')
@@ -11,17 +31,7 @@ I'm Joshua Skootsky
 - 🖋️  I love Markdown.md, and the quirks of JavaScript
 
 
-## A bit more info: 
 
-<!--
-```diff
-@@ I have a  BA in Math from Yeshiva University, (YU)             @@
-@@ Graduated from the Fullstack Academy (FSA) software engineering intensive  @@
-+ I've done research in computational chemistry and biophysics
-+ Been doing full stack web development with JavaScript and React
-+ I have a special love of typed and functional languages, so really excited about TypeScript
-- the bad
-! the good
 ```
 -->
 
