@@ -1,27 +1,5 @@
-### 👋 Hi there 
+👋 Hi, I'm Joshua Skootsky - a full-stack TypeScript developer.
 
-I'm Joshua Skootsky
+I deliver robust web applications and efficient CI/CD pipelines. My goal is to build reliable software that meets your needs, on time.
 
-I build websites and web apps. I also set up automated pipelines for testing and delivery. Together, these skillsets allow me to write software that correctly fulfills requirements on time.
-
-My peers say I'm effective in building rapport with diverse personalities, and I believe this skill is essential to creating successful teamwork in the digital environment.
-
-<!-- - 💼 Find me on <a href="https://www.linkedin.com/in/joshua-skootsky/">LinkedIn</a> -->
-- Check out [my website, joshuaskootsky.com](https://www.joshuaskootsky.com)!
--  💼  Find me on [LinkedIn](https://www.linkedin.com/in/joshua-skootsky/ 'LinkedIn')
-- ⚡ Passionate about CI/CD and the DevOps philosophy
-- 📫  Please reach me by email
-- ❄️  A bit concerned, slightly proud, that some of my code is living in a vault in the Arctic...
-- 🖋️  I love Markdown.md, and the quirks of JavaScript
-
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect! [joshuaskootsky.com](https://joshuaskootsky.com) | [LinkedIn](your-linkedin-url)
