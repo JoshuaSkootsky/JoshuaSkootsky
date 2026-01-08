@@ -19,6 +19,7 @@ Full-stack TypeScript developer working in **React**, **Go**, and **Rust**.
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [craft](https://github.com/JoshuaSkootsky/craft) | An AI Coding Agent | Typescript + Bun |
 | [daft](https://github.com/JoshuaSkootsky/daft) | Declarative AI agents for data validation | TypeScript |
 | [tcp-udp](https://github.com/JoshuaSkootsky/tcp-udp) | Low-level networking in Rust | Rust |
 | [roll-auth-sqlc](https://github.com/JoshuaSkootsky/roll-auth-sqlc) | Type-safe auth with Go + SQLC | Go |
